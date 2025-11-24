@@ -1,0 +1,4 @@
+Print("CALCULADORA DE SUELDO CON BONUS")
+
+nombre = input("ingrese el nombre: ")
+sueldo = float("ingrese su sueldo base: ")
